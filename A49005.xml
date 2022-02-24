@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Common Council for the better regulation of hackney-coaches</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49005</idno>
+            <idno type="STC">Wing L2857G</idno>
+            <idno type="STC">ESTC R34998</idno>
+            <idno type="EEBO-CITATION">14921580</idno>
+            <idno type="OCLC">ocm 14921580</idno>
+            <idno type="VID">102939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1574:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Common Council for the better regulation of hackney-coaches</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cab and omnibus service --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:102939:1"/>
+               <pb facs="tcp:102939:1" rendition="simple:additions"/>
+AN ACT OF Common Council, For the better Regulation of HACKNEY-COACHES.</p>
+            <figure>
+               <figDesc>coat of arms of the City of London</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Samuel Roycroft,</hi> Printer to this Honourable City, 1683.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:102939:2"/>
+            <head>Pritchard Mayor.</head>
+            <opener>
+               <dateline>Commune Concilium tent' in Camera <hi>Guild<g ref="char:EOLhyphen"/>hall</hi> Civitatis <hi>LOND',</hi> 
+                  <date>Die Martis Decimo Tertio die <hi>Martii,</hi> Anno Regni Regis <hi>CAROLI</hi> Secundi, <hi>Angl', &amp;c.</hi> Triceſimo Quinto. Annoque Dom. 1682.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>IT is Ordered by this Court, That the Act for</hi> Re<g ref="char:EOLhyphen"/>gulating the Hackney-Coachmen, <hi>this Day paſſed, ſhall be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_city_council">
+            <pb n="1" facs="tcp:102939:2"/>
+            <head>
+               <figure>
+                  <figDesc>coat of arms of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>Commune Concil' tent' in Camera</hi> Guildhall <hi>Civitatis</hi> LOND', <hi>Die Martis Decimo tertio die</hi> Martii, <hi>Anno Regni Domini noſtri</hi> CAROLI <hi>Secundi, Dei gratia</hi> Angl', Scotiae, Franciae, <hi>&amp;</hi> Hiberniae <hi>Regis, Fidei Defenſor', &amp;c. Triceſimo quinto, Annoque Dom'</hi> 1682. <hi>Coram</hi> Willielmo Pritchard <hi>Mil', Major' Civ'</hi> Lond', Willielmo Turner <hi>Mil',</hi> Jacobo Edwards <hi>Mil',</hi> Johanne Moore <hi>Mil',</hi> Jacobo Smith <hi>Mil',</hi> Roberto Geffery <hi>Mil',</hi> Johanne Peake <hi>Mil',</hi> Thoma Beck<g ref="char:EOLhyphen"/>ford <hi>Mil',</hi> Johanne Chapman <hi>Mil',</hi> Simone Lewis <hi>Mil',</hi> Jonathano Raymond' <hi>Mil',</hi> Richardo How <hi>Mil',</hi> Petro Daniel <hi>Armig' Ald'ris, &amp;</hi> Dudleo North <hi>Mil' Alder', ac un' Vicecom' dicte Civitatis; Necnon Majore parte</hi> Communiar' <hi>dicte Civitatis, in Com<g ref="char:EOLhyphen"/>muni Concilio tunc &amp; ibidem aſſemblat'.</hi>
+            </head>
+            <p>WHEREAS <hi>by the Ancient Charters, Cuſtoms, Fran<g ref="char:EOLhyphen"/>chiſes and Liberties of this City, the</hi> Lord MAYOR <hi>and</hi> Aldermen <hi>of the ſame City, with the Aſſent of the</hi> Commonalty <hi>thereof, are to make</hi> By-Laws <hi>and</hi> Orders, <hi>for the preventing and hindering of all Things which may from time to time happen, ariſe, or grow within the</hi>
+               <pb n="2" facs="tcp:102939:3"/>
+ſame City, tending to the Hurt or Prejudice of the Citizens and Inhabitants thereof, or of the People reſorting thereunto, or of the Trade of the ſame City.</p>
+            <p>
+               <hi>And whereas, EDWARD</hi> (ſometime King of <hi>England,</hi> of Famous Memory) the <hi>Third</hi> of that Name, by His <hi>Charter</hi> made and granted to this City in the <hi>Fifteenth Year</hi> of his Reign (con<g ref="char:EOLhyphen"/>firmed alſo by <hi>Parliament)</hi> amongſt other things granted, <hi>That</hi> if any the Cuſtoms in this City before that Time obtained and uſed, were in any part hard or defective, or any thing within the ſame City ariſing (where Remedy before that time was not Ordained) ſhould need Amend<g ref="char:EOLhyphen"/>ment, The <hi>Mayor</hi> and <hi>Aldermen</hi> of this City and their Succeſſors, with the Aſſent of the <hi>Com<g ref="char:EOLhyphen"/>monalty</hi> of the ſame City, might put and ordain thereunto fit Remedies, as often as it ſhould ſeem Expedient unto them, So that ſuch Ordi<g ref="char:EOLhyphen"/>nances ſhould be profitable to the King, for the profit of the Citizens and other People repair<g ref="char:EOLhyphen"/>ing to this City, and agreeable to Reaſon.</p>
+            <p>
+               <hi>And whereas</hi> the Number of <hi>Hackney-Coaches,</hi> Driving, Standing, and Waiting within this City, are now of late time ſo greatly Increaſed, and become ſo many, that the <hi>Streets</hi> and <hi>Com<g ref="char:EOLhyphen"/>mon Paſſages</hi> thereof are (by the Driving and Standing of ſuch <hi>Hackney-Coaches)</hi> ſo filled and peſtered, That the Citizens and Inhabitants of this City, and the People repairing there<g ref="char:EOLhyphen"/>unto, are greatly hindered in their Affairs, and the Paſſages of <hi>Carts</hi> and other Carriages, ne<g ref="char:EOLhyphen"/>ceſſary for the conveying of Goods greatly ob<g ref="char:EOLhyphen"/>ſtructed,
+<pb n="3" facs="tcp:102939:3"/>
+and the Trade of this City thereby much prejudiced, and the Charges of the Re<g ref="char:EOLhyphen"/>pairs of the <hi>Streets</hi> of this City much increaſed, And great Damages, Miſchiefs, and Incon<g ref="char:EOLhyphen"/>veniences are daily occaſioned thereby, and like<g ref="char:EOLhyphen"/>ly to be Increaſed to the Citizens and Inha<g ref="char:EOLhyphen"/>bitants of this City, and other Perſons reſort<g ref="char:EOLhyphen"/>ing thereunto. For prevention therefore of all Inconveniences and Miſchiefs which for the future may ariſe and grow to this <hi>City</hi> by ſuch great Numbers of <hi>Hackney-Coaches,</hi> and to the end, That <hi>Hackney-Coaches</hi> to be uſed and em<g ref="char:EOLhyphen"/>ployed within this <hi>City</hi> and the <hi>Liberties</hi> thereof, may be reduced to a Convenient Number; and that the Perſons Keeping and Driving ſuch <hi>Hackney-Coaches</hi> for Hire, within this <hi>City</hi> and the <hi>Liberties</hi> thereof, may be under ſome good Regulation and Government, agreable to what hath been already provided concerning <hi>Carrs, Carts,</hi> and <hi>Carr-Men.</hi>
+            </p>
+            <p>
+               <hi>Be it Enacted</hi> and Ordained by the <hi>Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Mayor,</hi> the <hi>Right Worſhipful the Aldermen</hi> his Brethren, and the <hi>Commons</hi> in <hi>Common Council</hi> Aſſembled; by Force of the <hi>Cuſtoms, Franchiſes,</hi> and <hi>Liberties</hi> aforeſaid, and <hi>Charter</hi> before-mentioned, confirmed by <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> as aforeſaid, and by Authority thereof; That from and after the <hi>Firſt Day of MAY</hi> next coming, the Number of <hi>Hackney-Coaches</hi> to be uſed and employed within this <hi>City</hi> and the <hi>Liberties</hi> thereof, ſhall not exceed <hi>Four Hundred.</hi>
+            </p>
+            <p>And to the end the Number of them may be aſcertained, and not exceed <hi>Four Hundred,</hi> as
+<pb n="4" facs="tcp:102939:4"/>
+aforeſaid, <hi>Be it further</hi> Enacted and Ordained, That no Perſon or Perſons, after the ſaid <hi>Firſt Day of MAY</hi> next coming, other than ſuch Per<g ref="char:EOLhyphen"/>ſons as ſhall be <hi>Licenced</hi> according to this <hi>Act;</hi> (Except <hi>Stage-Coaches</hi> to and from their Inns, and <hi>Coaches</hi> which ſhall take up a Fare out of the <hi>City,</hi> to be carried to any Place within or beyond this <hi>City</hi> or the <hi>Liberties</hi> thereof, whilſt they ſhall be without Covin or Delay driving to ſuch Place or Places, within or beyond this <hi>City</hi> or the <hi>Liberties</hi> thereof only;) ſhall by Him<g ref="char:EOLhyphen"/>ſelf or his Servants, Drive for Hire any <hi>Hackney-Coach,</hi> or Stand therewith to be Hired within this City of <hi>London,</hi> or the Liberties thereof. <hi>And,</hi> that if any Perſon or Perſons not ſo <hi>Licenced,</hi> (except as is before Excepted) ſhall preſume by Himſelf, or his Servants, to Drive for Hire any <hi>Coach</hi> within this <hi>City</hi> or the <hi>Liberties</hi> thereof, as aforeſaid; or to Stand with any <hi>Unlicenced Coach</hi> in order to be Hired, within the ſaid <hi>City</hi> and <hi>Liberties</hi> thereof, That then the Perſon or Perſons ſo Offending, ſhall Forfeit for every Time wherein he or they ſhall Offend in the <hi>Premiſſes,</hi> the Sum of <hi>Forty Shil<g ref="char:EOLhyphen"/>lings,</hi> to be Levied by Diſtreſs of the <hi>Coach</hi> and <hi>Horſes,</hi> ſo to be Driven or Standing contrary to the true intent and meaning of this <hi>Act,</hi> or of One of them; or to be recovered by <hi>Action of Debt,</hi> to be brought and proſecuted in the Name of the <hi>Chamberlain</hi> of this City, now and for the Time being, in any His <hi>MAJESTIES Courts of Record</hi> within this City, where <hi>Actions of Debt</hi> may be brought.</p>
+            <p>
+               <pb n="5" facs="tcp:102939:4"/>
+               <hi>And be it further</hi> Enacted and Ordained by the Authority aforeſaid, That in granting ſuch <hi>Licences</hi> (as aforeſaid) regard in the Firſt place be had to ſuch Perſon and Perſons as were laſt <hi>Licenced,</hi> by virtue of a Late <hi>Act of Parliament,</hi> made in the <hi>Fourteenth Year</hi> of His now <hi>MA<g ref="char:EOLhyphen"/>JESTIES</hi> Reign, for <hi>Regulating</hi> and <hi>Licencing of Hackney-Coaches,</hi> that ſhall deſire <hi>Licences</hi> in purſuance of this <hi>Act;</hi> and to the Widow and Widows of every of them that now have <hi>Coaches</hi> and <hi>Horſes,</hi> or whoſe Livelyhood is de<g ref="char:EOLhyphen"/>pending thereon.</p>
+            <p>
+               <hi>And</hi> be it further Enacted and Ordained, That upon the <hi>Death, Forfeiture,</hi> or <hi>Surrender</hi> of any of the Perſon and Perſons firſt to be <hi>Li<g ref="char:EOLhyphen"/>cenced,</hi> as aforeſaid, and their reſpective Wi<g ref="char:EOLhyphen"/>dows, nor at any time thereafter, New <hi>Licences</hi> for the keeping <hi>Hackney-Coaches</hi> within this <hi>City</hi> and the <hi>Liberties</hi> thereof, as aforeſaid, ſhall not be granted to any Perſon or Perſons that uſeth any other Trade or Occupation, or that ſhall vend <hi>Beer</hi> or <hi>Ale</hi> by Retail; nor to any One, to keep more than Two <hi>Hackney-Coaches,</hi> for the ends and purpoſes aforeſaid.</p>
+            <p>
+               <hi>And</hi> be it further Enacted and Ordained, That all and every the Perſon and Perſons that ſhall be <hi>Licenced,</hi> as aforeſaid, ſhall ob<g ref="char:EOLhyphen"/>ſerve and conform Him and Themſelves to the Rules and Proviſions herein after ſet down, <hi>That is to ſay,</hi> That every <hi>Coach-Man</hi> Licenced ſhall have a Mark of Diſtinction up<g ref="char:EOLhyphen"/>on his <hi>Coach</hi> by Figure, or otherwiſe, as the <hi>Court</hi> of the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> ſhall
+<pb n="6" facs="tcp:102939:5"/>
+think fit; <hi>To the end</hi> They may be known, in caſe they ſhall Misbehave themſelves: <hi>And</hi> alſo to diſtinguiſh them from <hi>Coach-Men</hi> Vn<g ref="char:EOLhyphen"/>licenced; and that none ſhall put the ſame Mark or Diſtinction upon his <hi>Coach,</hi> that is appointed for any other <hi>Coach;</hi> nor ſhall for Hire, Drive or Vſe any <hi>Coach</hi> (Except as afore<g ref="char:EOLhyphen"/>ſaid) that is not ſo Marked or Diſtinguiſhed.</p>
+            <p>
+               <hi>And further,</hi> That no <hi>Hackney-Coachman</hi> ſo to be <hi>Licenced,</hi> as aforeſaid, ſhall take for his Hire above the Rates following; <hi>That is to ſay, Ten Shillings</hi> for one Day, reckoning <hi>Twelve Hours</hi> to the Day; and by the <hi>Hour</hi> not above <hi>Eighteen Pence</hi> for the Firſt Hour, and <hi>Twelve Pence</hi> for every Hour after. <hi>And</hi> from the <hi>Inns of Court,</hi> or thereabouts, within this City, to any part of St. <hi>James</hi>'s or City of <hi>Weſtminſter,</hi> (Except beyond <hi>Tuttle-Street)</hi> above <hi>Twelve Pence;</hi> and the ſame Prices from the ſame Places to the ſaid <hi>Inns of Court,</hi> or Places thereabouts within this City: And from any of the <hi>Inns of Court,</hi> or Places thereabouts within this City, to the <hi>Royal Exchange,</hi> or Places of the like Diſtance, <hi>Twelve Pence;</hi> and ſo from the ſaid Places to the ſaid <hi>Inns of Court,</hi> as aforeſaid; and the like Rates from and to any Place at the like Di<g ref="char:EOLhyphen"/>ſtance with the Places before-mentioned, upon pain that every <hi>Coach-Man</hi> refuſing to go for the ſaid Rates, or exacting more for his Hire than the ſeveral Rates herein before Appoint<g ref="char:EOLhyphen"/>ed, or Offending in any of the particulars afore<g ref="char:EOLhyphen"/>mentioned, ſhall Forfeit and pay for every ſuch Offence the Sum of <hi>Ten Shillings</hi> of good
+<pb n="7" facs="tcp:102939:5"/>
+               <hi>Engliſh Money,</hi> to be levied by <hi>Diſtreſs,</hi> or <hi>Action of Debt,</hi> as aforeſaid. <hi>And,</hi> that the Perſons ſo to be <hi>Licenced,</hi> and Every of them, ſhall conform Him and Themſelves to ſuch other Rules and Proviſions for their good Government, as ſhall from time to time be Set down by this Court.</p>
+            <p>
+               <hi>And</hi> be it further Enacted, That no Perſon ſhall be Licenced, by Force of this <hi>Act,</hi> to Drive any <hi>Hackney-Coach,</hi> that ſhall be under the Age of <hi>One and Twenty years;</hi> or that is not of Sober and Honeſt Converſation, and decently Apparel<g ref="char:EOLhyphen"/>led. <hi>And Further,</hi> That none of the ſaid Perſons to be <hi>Licenced</hi> by virtue of this <hi>Act,</hi> ſhall take any Apprentice, to employ him in the Driving any <hi>Hackney-Coaches</hi> within this City, or the Liberties thereof. <hi>And Further,</hi> That their <hi>Hackney-Coaches</hi> ſhall ſtand to Take up Paſſen<g ref="char:EOLhyphen"/>gers in no other Places, or in greater Num<g ref="char:EOLhyphen"/>bers, than are herein after Expreſſed; <hi>That is to ſay,</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>From the Barrs without <hi>Aldgate</hi> to the Gate, Twelve Coaches.</hi>
+               </item>
+               <item>
+                  <hi>Near the Pump within <hi>Aldgate,</hi> Three.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In Fenchurch-Street.</head>
+               <item>
+                  <hi>From the ſaid Pump to <hi>Mark-Lane</hi> End, Three.</hi>
+               </item>
+               <item>
+                  <hi>From <hi>Mark-Lane</hi> End to <hi>Philpot-Lane</hi> End, Three.</hi>
+               </item>
+               <item>
+                  <hi>Near the Bulwark-Gate at the <hi>Tower,</hi> Two.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In Tower-Street.</head>
+               <item>
+                  <hi>At <hi>Mincing-Lane</hi> End, Two.</hi>
+               </item>
+               <item>
+                  <hi>At <hi>Mark-Lane</hi> End, Two.</hi>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:102939:6"/>
+At <hi>Seething-Lane</hi> End, One.</item>
+               <item>Near the Monument on <hi>Fiſh-Street Hill,</hi> Two.</item>
+            </list>
+            <list>
+               <head>In Gracechurch-Street.</head>
+               <item>From <hi>Eaſt-Cheap</hi> End to <hi>Lombard-Street</hi> End, Two.</item>
+               <item>By St. <hi>Peters Church,</hi> Two.</item>
+            </list>
+            <list>
+               <head>In Leadenhall-Street.</head>
+               <item>From <hi>Billiter-Lane</hi> End to St. <hi>Mary Ax,</hi> Four.</item>
+               <item>From St. <hi>Mary Ax</hi> to <hi>Leaden-Hall</hi> Corner, Four.</item>
+               <item>In <hi>Biſhopſgate-Street,</hi> within the Gate, Eight.</item>
+               <item>From the Barrs without <hi>Biſhopſgate</hi> to the Gate, Eight.</item>
+               <item>In <hi>Broad-Street,</hi> Six.</item>
+            </list>
+            <list>
+               <head>In Alderſgate-Street.</head>
+               <item>From <hi>Long-Lane</hi> End to <hi>Jewen-Street</hi> End, Six.</item>
+               <item>From <hi>Jewen-Street</hi> End to <hi>Alderſgate,</hi> Six.</item>
+            </list>
+            <list>
+               <head>In Redcroſs-Street.</head>
+               <item>From <hi>Golding-Lane</hi> to <hi>Jewen-Street</hi> End, Four.</item>
+               <item>From <hi>Jewen-Street</hi> End to <hi>Cripplegate Church,</hi> Two.</item>
+               <item>In <hi>Smithfield,</hi> Twelve.</item>
+            </list>
+            <list>
+               <head>In Cheapſide.</head>
+               <item>Near the <hi>Conduit,</hi> Four.</item>
+               <item>From <hi>Foſter-Lane</hi> End to <hi>Wood-Street</hi> End, Three.</item>
+               <item>From <hi>Wood-Street</hi> End to <hi>King-Street</hi> End, Four.</item>
+               <item>From <hi>King-Street</hi> End to <hi>Bucklers-Bury</hi> End, Two.</item>
+               <item>
+                  <pb n="9" facs="tcp:102939:6"/>
+At the Weſt-End of St. <hi>Pauls Church,</hi> Four; ſtanding Cloſe to the Fence.</item>
+            </list>
+            <list>
+               <head>In Cornhill.</head>
+               <item>Near the <hi>Standard,</hi> Three.</item>
+               <item>Near St. <hi>Michaels Church,</hi> Three.</item>
+               <item>From <hi>Finch-Lane</hi> End to <hi>Sweethings-Alley,</hi> Three.</item>
+               <item>From <hi>Caſtle-Alley</hi> to the Lower End of <hi>Cornhill,</hi> Five.</item>
+               <item>Againſt the <hi>Stocks-Market,</hi> Two.</item>
+               <item>In Great <hi>Lombard-Street,</hi> Four.</item>
+               <item>On <hi>Dowgate-Hill</hi> near <hi>Skinners-Hall,</hi> Two.</item>
+               <item>In Old <hi>Fiſh-Street,</hi> Two.</item>
+               <item>In <hi>Coleman-Street,</hi> Four.</item>
+               <item>In <hi>Aldermanbury,</hi> Two.</item>
+               <item>From <hi>Guildhall</hi> to <hi>Cheapſide,</hi> Six.</item>
+               <item>In <hi>Great Wood-Street,</hi> Two.</item>
+               <item>In <hi>Milk-Street,</hi> Two.</item>
+               <item>In <hi>Newgate-Street,</hi> Two.</item>
+               <item>From <hi>Newgate</hi> to St. <hi>Sepulchres Church,</hi> Two.</item>
+               <item>On Each ſide of <hi>Fleet-Ditch</hi> (void of the Great Street) Two; being Eight in all.</item>
+               <item>In the <hi>Old-Baily,</hi> Six.</item>
+            </list>
+            <list>
+               <head>In Fleet-Street.</head>
+               <item>From <hi>Shooe-Lane</hi> End to <hi>Water-Lane</hi> End, Four.</item>
+               <item>From <hi>Water-Lane</hi> End to <hi>White-Fryers</hi> Stump, Six.</item>
+               <item>From <hi>White-Fryers</hi> Stump to the Weſt-end of St. <hi>Dunſtans</hi> Church, Six.</item>
+               <item>From the Eaſt-end of St. <hi>Dunſtans Church</hi> to <hi>Temple-Barr,</hi> Six; ſtanding on the North-ſide of the Street.</item>
+               <item>
+                  <pb n="10" facs="tcp:102939:7"/>
+                  <hi>In <hi>Chancery-Lane</hi> above <hi>Sergeants-Inne,</hi> Six.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In Holborn.</head>
+               <item>Near Staple-Inne Gate, Four.</item>
+               <item>Near Caſtle-Yard Gate, Three.</item>
+               <item>From Caſtle-Yard Gate to Fetter-Lane End, Five.</item>
+               <item>From Fetter-Lane End to Hatton-Garden End, Five.</item>
+               <item>From Hatton-Garden End to Holborn-Bridge, Three.</item>
+               <item>Without Moore-Gate, Three.</item>
+            </list>
+            <p>
+               <hi>And</hi> be it further Enacted, That in all and every the Places aforeſaid, where more than One <hi>Coach</hi> is allowed to Stand, the ſame <hi>Coaches,</hi> and Every of them, ſhall ſtand <hi>Five Yards</hi> diſtant at leaſt one before another.</p>
+            <p>
+               <hi>And further,</hi> That if any of the ſaid <hi>Hackney-Coaches</hi> ſhall Stand in order to be Hired in any other Place than are herein before-men<g ref="char:EOLhyphen"/>tioned, or in greater Numbers, or at leſs Di<g ref="char:EOLhyphen"/>ſtances than are herein before ſpecified, That then the Perſon and Perſons Offending in any of the ſaid Caſes, ſhall Forfeit the Sum of <hi>Ten Shillings</hi> of like Lawful <hi>Engliſh Money,</hi> to be Levied and Recovered by <hi>Diſtreſs</hi> or <hi>Action of Debt,</hi> in manner before-mentioned.</p>
+            <p>
+               <hi>And</hi> be it further Enacted, That none of the ſaid <hi>Coach-Men</hi> ſhall Vſe or Drive <hi>Two Coaches</hi> at the ſame time with <hi>One Figure,</hi> on the Penal<g ref="char:EOLhyphen"/>ty of Forfeiting for every ſuch Offence the Sum of <hi>Five Pounds,</hi> to be Levied and Recovered in manner aforeſaid.</p>
+            <p>
+               <pb n="11" facs="tcp:102939:7"/>
+               <hi>And</hi> be it alſo further Enacted, That once in every Year a View ſhall be made by Order of this Court, of the Fitneſs of the Perſons that ſhall be <hi>Licenced</hi> by Virtue of this <hi>Act,</hi> their <hi>Servants, Horſes</hi> and <hi>Coaches,</hi> for the Ser<g ref="char:EOLhyphen"/>vice to which they are Licenced. After which View, as aforeſaid, Once in every Year the <hi>Licences</hi> of ſuch of the ſaid Perſons as ſhall then be alive, or their Widows, whoſe <hi>Coach, Servants</hi> and <hi>Horſes,</hi> ſhall upon ſuch View be found fit for that Service; and that ſhall have reaſonably Complyed with the Rules and Directions of this Act ſhall be Renewed.</p>
+            <p>
+               <hi>And be it further Enacted,</hi> That none of the ſaid Perſons to be <hi>Licenced</hi> by Virtue of this <hi>Act,</hi> ſhall at any time hereafter Stand, or Ply for Hire, againſt any part of the <hi>Royal Ex<g ref="char:EOLhyphen"/>change,</hi> nor ſtand in any <hi>Street</hi> or <hi>Common Paſſage</hi> before the <hi>Door</hi> or <hi>Shop</hi> of any Citizen or Inhabitant of this City, to his Annoyance or Hindrance; but in the Middle of the <hi>Streets</hi> and <hi>Paſſages</hi> only, Except between St. <hi>Dunſtans Church</hi> and <hi>Temple-Barr,</hi> as aforeſaid (and at <hi>Five Yards</hi> Diſtance, as aforeſaid) and ſo as the <hi>Coaches</hi> and <hi>Carts</hi> may paſs Free on each Side of the ſaid Street. Nor ſhall Feed his or their Horſes with <hi>Hay</hi> in any Street or Common Paſſage (Except ſuch Quantities only as the <hi>Coach-Men</hi> ſhall hold and deliver with his and their Hands to his and their <hi>Horſes:)</hi> Nor ſhall refuſe to give Way to any <hi>Gentlemans-Coach,</hi> or other <hi>Coach</hi> in ſuch Street or Paſſage, where Need ſhall require; on Pain that Every Per<g ref="char:EOLhyphen"/>ſon
+<pb n="12" facs="tcp:102939:8"/>
+Offending in any of the ſaid Caſes, ſhall Forfeit and Pay the Sum of <hi>Ten Shillings</hi> of good <hi>Engliſh Money</hi> for Every ſuch Offence, to be Levied and Recovered in manner afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>
+               <hi>And be it further Enacted,</hi> That to the end the ſaid <hi>Coach-Men</hi> may be the more Effectu<g ref="char:EOLhyphen"/>ally kept to their Standings, and other the <hi>Rules</hi> and <hi>Orders</hi> of this <hi>Act,</hi> That <hi>Andrew Tomlyn,</hi> and ſuch other Perſon and Perſons as this <hi>Court</hi> ſhall, for and during ſo long Time as this Court ſhall from Time to Time Limit, ſhall take Care that this <hi>Act,</hi> and eve<g ref="char:EOLhyphen"/>ry Thing therein contained, to the utmoſt of His and Their Power, be duly put in Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>And</hi> in caſe He or They ſhall find any of the <hi>Coach-Men</hi> to be <hi>Licenced</hi> in manner aforeſaid, or any others Offending in any of the Par<g ref="char:EOLhyphen"/>ticulars herein before-mentioned, That then He or They do Diſtrain the <hi>Coaches</hi> and <hi>Horſes</hi> of the Perſon and Perſons ſo Offending, or One of them, for the Penalties and Forfei<g ref="char:EOLhyphen"/>tures Inflicted on Him or Them by this <hi>Act,</hi> for ſuch Offence and Offences which ſuch <hi>Coach-Man</hi> or <hi>Coach-Men</hi> ſhall ſo Commit in Contempt of this <hi>Act,</hi> or bring the Name of the Offender or Offenders, or the Number or Mark of His or Their <hi>Coaches,</hi> and the Place of his Abode, to the <hi>Chamberlain</hi> of this City, now and for the Time being, to the end ſuch Offender and Offenders may be pro<g ref="char:EOLhyphen"/>ceeded againſt according to Law.</p>
+            <p>
+               <pb n="13" facs="tcp:102939:8"/>
+               <hi>And</hi> all <hi>Conſtables,</hi> and other His <hi>MAJES<g ref="char:EOLhyphen"/>TIES</hi> Officers within this City and the Liberties thereof, are hereby Impowered and Required to be Aiding and Aſſiſting to the ſaid <hi>Andrew Tomlyn,</hi> and ſuch other Perſon and Perſons as this <hi>Court</hi> ſhall Direct, in all Things tending to the Execution of this <hi>Act,</hi> in preventing the Miſchiefs and Incon<g ref="char:EOLhyphen"/>veniences intended to be Remedied there<g ref="char:EOLhyphen"/>by.</p>
+            <p>
+               <hi>And be it further Enacted,</hi> by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, (for prevention of all Perſons, other than ſuch as are to be <hi>Licenced</hi> by Virtue hereof, to Drive and Stand with <hi>Hackney-Coaches</hi> for Hire in the Streets of this City,) That the ſaid <hi>Four Hundred</hi> Per<g ref="char:EOLhyphen"/>ſons ſhall be <hi>Licenced,</hi> and have a <hi>Certificate</hi> (Yearly to be Renewed) from the <hi>Lord Mayor</hi> and <hi>Court of Aldermen,</hi> under the Seal of the Office of <hi>Majoralty,</hi> and Signed by the <hi>Town-Clerk</hi> of this City in manner follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>ORdered by the Right Honourable the <hi>Lord Mayor,</hi> and <hi>Court of Aldermen</hi> of the City of <hi>LONDON,</hi> That <hi>A. B.</hi> of, &amp;c. for and during the ſpace of One Year, to be accounted from the Firſt Day of <hi>May——</hi>Be, and is hereby Licenced to keep a <hi>Hackney-Coach</hi> within this City and the Liber<g ref="char:EOLhyphen"/>ties thereof, Purſuant to an Act of <hi>Common Council,</hi> Made, Enacted and Paſſed, &amp;c. He the ſaid <hi>A. B.</hi> Conforming himſelf to the Rules in the ſaid Act of <hi>Common Council</hi> ſet down and preſcribed; And</hi>
+               <pb n="14" facs="tcp:102939:9" rendition="simple:additions"/>
+               <hi>that the Number (<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>) be the Mark and Figure to be uſed by the ſaid <hi>A. B.</hi> upon ſuch his Hackney-Coach. Witneſs, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>And Laſtly,</hi> It is hereby further Declared, Ordained and Enacted, That all and every the Sum and Sums of Money to be Forfeited by this <hi>Act,</hi> and to be Levied and Recovered for the not due Obſervance of the ſame, ſhall be diſpoſed of in Manner following; <hi>(That is to ſay)</hi> One Moiety thereof (the Coſts of the Suits for Recovery of the ſame being firſt deducted and allowed) ſhall after the Recovery and Receipt thereof, be paid and delivered to the <hi>Treaſurer</hi> of <hi>Chriſts-Hoſpital,</hi> to be employed for and towards the Relief of the Poor Children, to be Brought up and Maintained in the ſaid Hoſpital: And the other Moiety to be paid to the <hi>Chamberlain</hi> of this City for the Time be<g ref="char:EOLhyphen"/>ing, to be diſpoſed of to ſuch Perſon and Per<g ref="char:EOLhyphen"/>ſons as ſhall be Imployed to ſee the due Exe<g ref="char:EOLhyphen"/>cution of this <hi>Act,</hi> to the end the Miſchiefs thereby intended to be remedied, may be fully prevented, and after to ſuch other Vſes as this <hi>Court</hi> ſhall think fit and appoint.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Samuel Roycroft, Printer to the Honou<g ref="char:EOLhyphen"/>rable City of LONDON, 1683.</p>
+            <pb facs="tcp:102939:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
